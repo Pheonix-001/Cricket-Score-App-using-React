@@ -1,3 +1,3 @@
 # Cricket-Score-App-using-React
 
-File will be uploaded soon
+File uploading is pending due to size restriction, this will be uploaded soon
